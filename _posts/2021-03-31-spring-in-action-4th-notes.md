@@ -1,5 +1,6 @@
 ---
 layout:     post
+catalog:    true
 title:      "《Spring实战》笔记"
 subtitle:   ""
 data:       2021-03-31 14:37:00
